@@ -29,4 +29,4 @@ plot(pressure)
 
 Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
 
-So if I want to add more to this document and add it to GitHub, all I should have to do is use the push command again.
+So if I want to add more to this document and add it to GitHub, all I should have to do is use the push command again. Please can this work. Why won't it work?
